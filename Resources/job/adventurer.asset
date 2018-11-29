@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ad7164eb66534344a5b5d511d4a2b09, type: 3}
+  m_Name: adventurer
+  m_EditorClassIdentifier: 
+  Name: adventurer
+  LifeBase: 100
+  LifeEvole: 10
+  StrengthBase: 10
+  StrengthEvole: 1
+  StaminaBase: 10
+  StaminaEvole: 1
+  CharismaBase: 10
+  CharismaEvole: 1
+  WisdomBase: 10
+  WisdomEvole: 1
+  MindBase: 10
+  MindEvole: 1
+  AgilityBase: 10
+  AgilityEvole: 1
+  skills:
+  - Strike

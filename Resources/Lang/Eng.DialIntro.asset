@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab3d661963825e04aaefc4fbe118ac9a, type: 3}
+  m_Name: Eng.DialIntro
+  m_EditorClassIdentifier: 
+  Lang: eng
+  parent: {fileID: 0}
+  entrys:
+  - key: Intro
+    value: Um, I feel like it's going to be a good day.
+  - key: momask
+    value: My dear, the mayor is looking for you, he wants to ask you something.
+  - key: momask2
+    value: I am going right now
+  - key: OldMan
+    value: Ha here you are! Can you go get me some wood in the forest please?
+  - key: OldMan2
+    value: Of course, but I do not have an ax. And which tree should I cut?
+  - key: arriveForest
+    value: 'I have to defeat all these little wooden monsters before coming back to
+      my village
+
+'
+  - key: OldMan3
+    value: Trees ? no attack one or two monsters that will do the trick. Those who
+      pose as stumps. I leave you my ax to do that.

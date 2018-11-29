@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22a24a37c25176b46a1655db6a1f8064, type: 3}
+  m_Name: Strike
+  m_EditorClassIdentifier: 
+  Name: strike
+  Domage: 10
+  CostStrenght: 3
+  CostStamina: 0
+  CostCharisma: 0
+  CostWisdom: 0
+  CostMind: 0

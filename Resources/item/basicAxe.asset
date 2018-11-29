@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc776cfd1f8be0c448773e4e10875749, type: 3}
+  m_Name: basicAxe
+  m_EditorClassIdentifier: 
+  name: basic axe
+  description: axe
+  slot: 0
+  StarterStrength: 2
+  MaxStrength: 0
+  StarterStamina: 0
+  MaxStamina: 0
+  StarterCharisma: 0
+  MaxCharisma: 0
+  StarterWisdom: 0
+  MaxWisdom: 0
+  StarterMind: 0
+  MaxMind: 0
+  StarterAgility: 0
+  MaxAgility: 0
